@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/blackkiv?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkiv&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkiv&layout=compact&theme=dark"
     />
   </a>
   <a href="https://github.com/blackkiv?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=blackkiv&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=blackkiv&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
     />
   </a>
 </p>
