@@ -20,6 +20,13 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="155"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkiv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    />
+  </a>
+  <a href="https://github.com/blackkiv?tab=repositories">
+    <img
+      align="center"
+      height="155"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkiv&layout=compact&theme=tokyonight&hide_border=true"
     />
   </a>
