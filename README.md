@@ -15,19 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   [![wakatime](https://wakatime.com/badge/user/81aed929-9cfa-441b-9bcd-c4730c53ed1b.svg)](https://wakatime.com/@81aed929-9cfa-441b-9bcd-c4730c53ed1b)
-<p align="center">
-  <a href="https://github.com/blackkiv?tab=repositories">
-    <img
-      align="center"
-      height="155"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkiv&layout=compact&theme=tokyonight&hide_border=true"
-    />
-  </a>
-  <a href="https://github.com/blackkiv?tab=repositories">
-    <img
-      align="center"
-      height="155"
-      src="https://github-readme-stats.vercel.app/api?username=blackkiv&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight&hide_border=true"
-    />
-  </a>
-</p>
